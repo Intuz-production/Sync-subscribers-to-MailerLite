@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-# Sync New Google Sheets Subscribers to MailerLite
+# Sync new subscribers from Google Sheets to MailerLite without duplicates
 
 Intuz helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch.
 
