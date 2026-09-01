@@ -8,9 +8,9 @@
 
 # Sync new subscribers from Google Sheets to MailerLite without duplicates
 
-Intuz helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch.
+[Intuz](https://www.intuz.com) helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch
 
-[Website](https://intuz.com) · [N8N Creator](https://n8n.io/creators/intuz/) · [Workflow Automation](https://www.intuz.com/workflow-automation-services/) · [For Custom Workflow Automation](https://www.intuz.com/get-started/)
+[N8N Creator](https://n8n.io/creators/intuz/) · [Business Process Automation](https://www.intuz.com/ai-automation-services/) · [AI Development Company](https://www.intuz.com/ai/) · [For Custom Workflow Automation](https://www.intuz.com/get-started/)
 
 ---
 
@@ -61,8 +61,11 @@ Save the workflow and click **"Execute workflow"** to run the sync whenever you 
 
 ## Connect with us
 
-* **Website:** https://www.intuz.com/n8n-workflow-automation-templates
+* **Website:** https://www.intuz.com/n8n-workflow-automation-templates/
 * **Email:** [getstarted@intuz.com](mailto:getstarted@intuz.com)
-* **LinkedIn:** https://www.linkedin.com/company/intuz
+* **LinkedIn:** https://www.linkedin.com/company/intuz/
 * **Get Started:** https://n8n.partnerlinks.io/intuz
-* **For Custom Workflow Automation:** https://www.intuz.com/get-started/
+
+## For Custom Workflow Automation
+
+[Click here - Get Started](https://www.intuz.com/get-started/)
