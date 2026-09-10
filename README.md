@@ -10,7 +10,7 @@
 
 [Intuz](https://www.intuz.com) helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch
 
-[N8N Creator](https://n8n.io/creators/intuz/) · [Business Process Automation](https://www.intuz.com/ai-automation-services/) · [AI Development Company](https://www.intuz.com/ai/) · [For Custom Workflow Automation](https://www.intuz.com/get-started/)
+[N8N Creator](https://n8n.io/creators/intuz/) · [Business Process Automation](https://www.intuz.com/ai-automation-services/) · [AI Development Company](https://www.intuz.com/company/) · [For Custom Workflow Automation](https://www.intuz.com/get-started/)
 
 ---
 
