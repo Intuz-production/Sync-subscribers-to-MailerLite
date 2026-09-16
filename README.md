@@ -1,4 +1,4 @@
-# Intuz — Your automation partner, one workflow at a time.
+*Intuz — Your automation partner, one workflow at a time.*
 
 <p align="center">
   <picture>
@@ -6,13 +6,11 @@
   </picture>
 </p>
 
-# Sync new subscribers from Google Sheets to MailerLite without duplicates
-
-[Intuz](https://www.intuz.com) helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch
+[Intuz](https://www.intuz.com) helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch.
 
 [N8N Creator](https://n8n.io/creators/intuz/) · [Business Process Automation](https://www.intuz.com/ai-automation-services/) · [AI Development Company](https://www.intuz.com/company/) · [For Custom Workflow Automation](https://www.intuz.com/get-started/)
 
----
+# Sync new subscribers from Google Sheets to MailerLite without duplicates
 
 This n8n template from Intuz provides a complete solution to automate the syncing of new subscribers from Google Sheets to MailerLite. It intelligently identifies and adds only new contacts, preventing duplicates and ensuring your email lists are clean and accurate.
 
@@ -59,7 +57,28 @@ If the contact is not found, the workflow proceeds to create a new subscriber in
 
 Save the workflow and click **"Execute workflow"** to run the sync whenever you need to update your subscriber list.
 
+## FAQ
+
+**Is this template free to use?**
+Yes. It's an open-source n8n workflow published by Intuz — copy the workflow JSON from this repo and import it into your own n8n instance at no cost.
+
+**Do I need a paid n8n plan to run this?**
+No. It runs on n8n's free self-hosted Community Edition or on n8n Cloud. You'll need your own credentials for the services this workflow connects to, not a specific n8n pricing tier.
+
+**Will it create duplicate subscribers if I re-run it?**
+No — the workflow checks for existing contacts before adding new ones, so re-running it against the same sheet won't create duplicates in MailerLite.
+
+## Related n8n templates from Intuz
+
+- [Automate QuickBooks customers & sales receipts generation from a Google Sheet](https://github.com/Intuz-production/Automate-QuickBooks-Customer-Sales-Receipt-Creation)
+- [Automate AI Upwork proposal generation with Apify, Google Gemini & Sheets](https://github.com/Intuz-production/Upwork-proposal-generation-automation)
+- [Automate cold outreach with email personalization using Gemini and Google Sheets](https://github.com/Intuz-production/Personalized-Sales-Outreach-Automation-with-AI)
+
+See all of Intuz's free n8n templates: https://www.intuz.com/n8n-workflow-automation-templates/
+
 ## Connect with us
+
+Intuz is a USA-based AI & workflow automation company with 16+ years of experience building custom AI-enabled workflow automations for SMBs and Enterprises, specializing in agentic AI, LLM integrations, and CRM/ERP sync across Healthcare, FinTech, eCommerce, Manufacturing, and Real Estate. Explore 30+ free templates at intuz.com/n8n-workflow-automation-templates or get a custom workflow built at intuz.com/get-started.
 
 * **Website:** https://www.intuz.com/n8n-workflow-automation-templates/
 * **Email:** [getstarted@intuz.com](mailto:getstarted@intuz.com)
